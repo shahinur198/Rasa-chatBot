@@ -14,3 +14,5 @@ pip install numpy==1.16.4
 pip uninstall rasa
 pip install rasa==1.3.3
 ```
+# Good Tutorial
+https://www.youtube.com/watch?v=Xios0aqEVlc
