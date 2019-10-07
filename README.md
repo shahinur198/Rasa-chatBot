@@ -16,3 +16,6 @@ pip install rasa==1.3.3
 ```
 # Good Tutorial
 https://www.youtube.com/watch?v=Xios0aqEVlc
+
+
+https://rasa.com/docs/rasa-x/api/rasa-x-http-api/
