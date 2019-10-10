@@ -32,3 +32,5 @@ https://towardsdatascience.com/building-a-conversational-chatbot-for-slack-using
 https://towardsdatascience.com/a-beginners-guide-to-rasa-nlu-for-intent-classification-and-named-entity-recognition-a4f0f76b2a96
 
 https://chatbotslife.com/how-you-can-build-your-first-chatbot-using-rasa-in-under-15-minutes-ce557ea52f2f
+
+https://medium.com/@itsromiljain/3-deploy-your-chatbot-on-slack-1a0e8390f66b
