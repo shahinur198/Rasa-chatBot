@@ -19,3 +19,8 @@ https://www.youtube.com/watch?v=Xios0aqEVlc
 
 
 https://rasa.com/docs/rasa-x/api/rasa-x-http-api/
+
+
+https://medium.com/@itsromiljain/build-a-conversational-chatbot-with-rasa-stack-and-python-rasa-nlu-b79dfbe59491
+
+https://medium.com/@itsromiljain/build-a-conversational-chatbot-with-rasa-stack-and-python-rasa-core-41b9c38c26b
