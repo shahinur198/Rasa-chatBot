@@ -34,3 +34,5 @@ https://towardsdatascience.com/a-beginners-guide-to-rasa-nlu-for-intent-classifi
 https://chatbotslife.com/how-you-can-build-your-first-chatbot-using-rasa-in-under-15-minutes-ce557ea52f2f
 
 https://medium.com/@itsromiljain/3-deploy-your-chatbot-on-slack-1a0e8390f66b
+
+https://itnext.io/building-a-chatbot-with-rasa-9c3f3c6ad64d
