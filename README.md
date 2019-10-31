@@ -41,3 +41,23 @@ https://www.youtube.com/watch?v=seBN1gMJN0U
 
 # it's importent
 https://www.youtube.com/watch?v=szZJ0q8Yx7I
+
+https://github.com/RasaHQ/medicare_locator
+
+```
+git clone https://github.com/RasaHQ/medicare_locator.git
+cd medicare_locator
+
+pip3 install -r requirements.txt
+
+python3 -m spacy download en
+
+make train-core
+make train-nlu
+make action-server
+
+make cmdline
+
+make interactive
+
+```
