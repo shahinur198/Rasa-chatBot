@@ -39,3 +39,5 @@ https://itnext.io/building-a-chatbot-with-rasa-9c3f3c6ad64d
 
 https://www.youtube.com/watch?v=seBN1gMJN0U
 
+# it's importent
+https://www.youtube.com/watch?v=szZJ0q8Yx7I
