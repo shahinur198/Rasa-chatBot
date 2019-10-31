@@ -36,3 +36,6 @@ https://chatbotslife.com/how-you-can-build-your-first-chatbot-using-rasa-in-unde
 https://medium.com/@itsromiljain/3-deploy-your-chatbot-on-slack-1a0e8390f66b
 
 https://itnext.io/building-a-chatbot-with-rasa-9c3f3c6ad64d
+
+https://www.youtube.com/watch?v=seBN1gMJN0U
+
