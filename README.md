@@ -67,3 +67,4 @@ https://blog.rasa.com/tag/tutorials/
 
 https://github.com/RasaHQ/rasa
 
+https://www.youtube.com/watch?time_continue=1179&v=VXvWdrr2yw8
