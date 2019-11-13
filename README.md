@@ -74,3 +74,7 @@ https://rasa.com/docs/rasa/user-guide/connectors/your-own-website/
 https://www.youtube.com/watch?v=5gSZ_ZcrbRY
 
 /bot/lib/python3.6/site-packages/rasax/community/interface
+
+https://www.heromotocorp.com/en-bd/reach-us/find-hero-bike-dealers.html
+
+http://www.amaarhero.com/#divBikeSpecification
