@@ -82,3 +82,5 @@ http://www.amaarhero.com/#divBikeSpecification
 https://github.com/Wolox/react-chat-widget
 
 https://github.com/mrbot-ai/rasa-webchat
+
+https://github.com/scalableminds/chatroom
