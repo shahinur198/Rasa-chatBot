@@ -84,3 +84,5 @@ https://github.com/Wolox/react-chat-widget
 https://github.com/mrbot-ai/rasa-webchat
 
 https://github.com/scalableminds/chatroom
+
+https://rasa.com/docs/rasa/user-guide/connectors/your-own-website/
