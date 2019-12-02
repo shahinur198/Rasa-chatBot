@@ -92,3 +92,9 @@ https://rasa.com/docs/rasa/user-guide/connectors/facebook-messenger/
 https://www.youtube.com/watch?v=J1n3Y8SVxVM
 
 https://rasa.com/docs/rasa/user-guide/connectors/your-own-website/
+
+```
+source ./bot/bin/activate
+cd chatbot/rasa_x/
+rasa run -m models --enable-api --cors "*" --debug
+```
