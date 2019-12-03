@@ -109,6 +109,12 @@ https://forum.rasa.com/t/solved-how-to-implement-our-own-custom-connector-for-th
  rasa run -m models --enable-api --cors "*" --debug -p 5050
 
 ```
+```
+curl -XPOST http://localhost:5050/webhooks/rest/webhook \
+  -d '{"sender": "user1", "message": "hello"}' \
+  -H "Content-type: application/json"
+  
+```
 https://rasa.com/docs/rasa/api/http-api/#operation/parseModelMessage
 
 # rasa mobile
