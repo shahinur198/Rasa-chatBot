@@ -100,3 +100,8 @@ rasa run -m models --enable-api --cors "*" --debug
 ```
 # rasa with voice
 https://blog.rasa.com/how-to-build-a-voice-assistant-with-open-source-rasa-and-mozilla-tools/
+
+# rasa custom connectors
+https://rasa.com/docs/rasa/user-guide/connectors/custom-connectors/
+
+https://forum.rasa.com/t/solved-how-to-implement-our-own-custom-connector-for-the-custom-ui/12675/27
