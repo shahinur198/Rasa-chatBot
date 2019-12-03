@@ -98,3 +98,5 @@ source ./bot/bin/activate
 cd chatbot/rasa_x/
 rasa run -m models --enable-api --cors "*" --debug
 ```
+# rasa with voice
+https://blog.rasa.com/how-to-build-a-voice-assistant-with-open-source-rasa-and-mozilla-tools/
