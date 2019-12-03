@@ -105,6 +105,10 @@ https://blog.rasa.com/how-to-build-a-voice-assistant-with-open-source-rasa-and-m
 https://rasa.com/docs/rasa/user-guide/connectors/custom-connectors/
 
 https://forum.rasa.com/t/solved-how-to-implement-our-own-custom-connector-for-the-custom-ui/12675/27
+```
+ rasa run -m models --enable-api --cors "*" --debug -p 5050
+
+```
 
 # rasa mobile
 https://blog.rasa.com/how-to-build-a-mobile-voice-assistant-with-open-source-rasa-and-aimybox/
