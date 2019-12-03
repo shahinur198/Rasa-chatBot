@@ -109,6 +109,7 @@ https://forum.rasa.com/t/solved-how-to-implement-our-own-custom-connector-for-th
  rasa run -m models --enable-api --cors "*" --debug -p 5050
 
 ```
+https://rasa.com/docs/rasa/api/http-api/#operation/parseModelMessage
 
 # rasa mobile
 https://blog.rasa.com/how-to-build-a-mobile-voice-assistant-with-open-source-rasa-and-aimybox/
