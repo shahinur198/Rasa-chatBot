@@ -98,6 +98,13 @@ source ./bot/bin/activate
 cd chatbot/rasa_x/
 rasa run -m models --enable-api --cors "*" --debug
 ```
+credentials.py
+```
+socketio:
+  user_message_evt: user_uttered
+  bot_message_evt: bot_uttered
+  session_persistence: true
+```
 # rasa with voice
 https://blog.rasa.com/how-to-build-a-voice-assistant-with-open-source-rasa-and-mozilla-tools/
 
@@ -105,6 +112,11 @@ https://blog.rasa.com/how-to-build-a-voice-assistant-with-open-source-rasa-and-m
 https://rasa.com/docs/rasa/user-guide/connectors/custom-connectors/
 
 https://forum.rasa.com/t/solved-how-to-implement-our-own-custom-connector-for-the-custom-ui/12675/27
+
+credentials.py
+```
+channel.RestInput:
+```
 ```
  rasa run -m models --enable-api --cors "*" --debug -p 5050
 
