@@ -142,3 +142,8 @@ New terminal
 ```
 python3 text_bot.py
 ```
+
+with web
+```
+rasa x 
+```
