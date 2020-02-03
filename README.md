@@ -131,3 +131,14 @@ https://rasa.com/docs/rasa/api/http-api/#operation/parseModelMessage
 
 # rasa mobile
 https://blog.rasa.com/how-to-build-a-mobile-voice-assistant-with-open-source-rasa-and-aimybox/
+
+# run api base.....
+```
+source ./bot/bin/activate
+cd chatbot/rasa_x/
+rasa run -m models --enable-api --cors "*" --debug -p 5050
+```
+New terminal
+```
+python3 text_bot.py
+```
