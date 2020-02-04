@@ -151,3 +151,4 @@ train
 ```
 rasa train
 ```
+https://rasa.com/docs/rasa/1.0.9/core/domains/
