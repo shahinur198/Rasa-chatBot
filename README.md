@@ -147,3 +147,7 @@ with web
 ```
 rasa x 
 ```
+train
+```
+rasa train
+```
