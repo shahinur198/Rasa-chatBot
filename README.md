@@ -154,3 +154,6 @@ rasa train
 https://rasa.com/docs/rasa/1.0.9/core/domains/
 
 http://alexandersimoes.com/hints/2015/10/28/deploying-flask-with-nginx-gunicorn-supervisor-virtualenv-on-ubuntu.html
+
+# build api
+https://www.youtube.com/watch?v=4T5Gnrmzjak
