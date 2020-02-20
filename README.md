@@ -163,4 +163,10 @@ https://rasa.com/docs/rasa/1.0.9/core/domains/
 
 http://alexandersimoes.com/hints/2015/10/28/deploying-flask-with-nginx-gunicorn-supervisor-virtualenv-on-ubuntu.html
 
+You can also configure the Rasa server to fetch your model from a remote storage:
+
+rasa run -m 20190506-100418.tar.gz --enable-api --log-file out.log --remote-storage aws
+
+rasa run -m 20190506-100418.tar.gz --enable-api  --cors "*" --debug -p 5050
+
 
