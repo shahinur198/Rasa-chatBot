@@ -156,6 +156,7 @@ rasa x
 train
 ```
 rasa train
+rasa train --fixed-model-name FIXED_MODEL_NAME
 ```
 https://rasa.com/docs/rasa/1.0.9/core/domains/
 
