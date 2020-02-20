@@ -13,6 +13,9 @@ pip install numpy==1.16.4
 
 pip uninstall rasa
 pip install rasa==1.3.3
+
+Switching back to a TensorFlow release which only includes CPU support to reduce the size of the dependencies. If you want to use the TensorFlow package with GPU support, please run pip install tensorflow-gpu==1.15.0.
+
 ```
 # Good Tutorial
 https://www.youtube.com/watch?v=Xios0aqEVlc
