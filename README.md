@@ -157,6 +157,7 @@ train
 ```
 rasa train
 rasa train --fixed-model-name FIXED_MODEL_NAME
+rasa run --model model --enable-api --cors "*" --debug -p 5050
 ```
 https://rasa.com/docs/rasa/1.0.9/core/domains/
 
