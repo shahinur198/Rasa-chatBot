@@ -168,4 +168,6 @@ rasa run -m 20190506-100418.tar.gz --enable-api --log-file out.log --remote-stor
 
 rasa run -m 20190506-100418.tar.gz --enable-api  --cors "*" --debug -p 5050
 
+# run subprocess
+https://stackabuse.com/executing-shell-commands-with-python/
 
