@@ -153,6 +153,9 @@ with web
 ```
 rasa x 
 ```
+```
+python3 web.py
+```
 train
 ```
 rasa train
