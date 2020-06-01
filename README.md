@@ -174,3 +174,6 @@ rasa run -m 20190506-100418.tar.gz --enable-api  --cors "*" --debug -p 5050
 # run subprocess
 https://stackabuse.com/executing-shell-commands-with-python/
 
+# Only nlu
+https://www.youtube.com/watch?v=xu6D_vLP5vY
+
