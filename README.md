@@ -1,4 +1,8 @@
 # Rasa-chatBot
+
+# Rasa update install guid
+https://rasa.com/docs/rasa/installation/
+
 # Rasa Install guid
 ```
 $ sudo apt update
